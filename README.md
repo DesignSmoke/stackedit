@@ -2,8 +2,6 @@
 
 StackEdit is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
-Main showcase: https://stackedit.io/.
-
 Support StackEdit:
 
 [![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
@@ -54,7 +52,7 @@ yarn run build
 yarn run build --report
 ```
 
-> **NOTE:** This page has been written and published with [StackEdit][5].
+> **NOTE:** This page has been written and published with the [Portland Wordpress Web Designer](https://www.designsmoke.com).
 
 
   [1]: https://developer.mozilla.org/en-US/docs/Web/Guide/DOM/Storage#localStorage
